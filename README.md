@@ -1,1 +1,1 @@
-# ValliCorp - Thot
+# ValliCorp - Projet Thot
