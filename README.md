@@ -1,1 +1,1 @@
-# ValliCorp - Projet Thot (test desk)
+# ValliCorp - Projet Thot
